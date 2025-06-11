@@ -1,0 +1,6 @@
+Read and comprehend the following short story. Then, answer the question that follows. \n\n
+Story: {Story Scenario from OpenToM} \n\n
+After the story, the main character {protag name} only encounters the following percept: {protag name} \n\n
+Question: {Relevant question from OpenToM benchmark} \n\n
+Answer with "positive", "neutral", or "negative". 
+Answer the question without any explanation.

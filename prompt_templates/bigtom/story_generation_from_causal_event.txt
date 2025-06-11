@@ -1,0 +1,6 @@
+Story: {Context of Story Scenario from BigToM} {Protagonist's Desires in Story Scenario from BigToM} {Initial Binary Perception Cues in Story Scenario from BigToM}\n\n
+Main character's belief: {Protagonist's Belief in Story Scenario from BigToM}\n\n
+Event: {Causal Event in Story Scenario from BigToM} \n\n
+  
+Instructions: Based on the following story and event, generate perceptual cues that the main character might encounter, which MUST challenge their belief. Each cue should be creative, reasonable, and systematically explore the sensory modalities of: visual, auditory, olfactory, gustatory, tactile, proprioception (sense of body position/weight). Be descriptive and only make vivid descriptions about the perceptual cue, without describing the main character's thoughts. Avoid making explicit comparisons between the event and the main character's belief. Generate 2 perceptual cues for each sensory modality. Be super duper creative! Do not use these words: different, difference, instead of, contrasts.\n For each cue, write your output in a format like this example: \n ### Visual Stories\n1. {story #1}\n2. {story #2}\n 
+

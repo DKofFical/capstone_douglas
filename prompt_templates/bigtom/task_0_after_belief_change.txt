@@ -1,0 +1,6 @@
+Answer the questions based on the context. Keep your answer concise, few words are enough, maximum one sentence. Answer as ’Answer:<option>)<answer>’ \n\n
+Story: {Context of Story Scenario from BigToM} {Protagonist's Desires in Story Scenario from BigToM} {Initial Binary Perception Cues in Story Scenario from BigToM} {Causal Event in Story Scenario from BigToM}. Regarding the event, the main character {protag_name} only encounters the following percept: {percept}\n\n
+Question: {Relevant question from BigToM benchmark} \n
+Choose one of the following: \n 
+A){first option - randomly shuffled} \n 
+B){second option - randomly shuffled} \n

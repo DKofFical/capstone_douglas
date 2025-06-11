@@ -1,0 +1,7 @@
+Story: {story} \n\nEvent: {event} \n\n
+Regarding the event, the main character {protag_name} only encounters the following percepts:\n1. {noise/percept - randomly shuffled} \n2. {percept/noise - randomly shuffled}\n\n\n
+Before the event, the main character's initial belief was \"{initial_belief}\"\n\n
+Instructions: Analyze the situation and select the most appropriate answer to the following question: \n\n\n
+After the event happened, based on the main character {protag_name}'s perception of the event, which of the following statements best describes {protag_name}'s new belief? \n
+Choose the most appropriate answer (choose one only):\n
+A. {first option - randomly shuffled}\nB. {second - randomly shuffled}\nC. {third - randomly shuffled}\nD. {fourth - randomly shuffled}

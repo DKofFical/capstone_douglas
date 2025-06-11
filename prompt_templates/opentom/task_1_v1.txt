@@ -1,0 +1,8 @@
+Story: {story} \n\n
+Regarding the event, the main character {protag_name} only encounters the following percept: {percept}\n\n
+Before the event, the main character's initial belief was \"{initial_belief}\"\n\n
+Instructions: Analyze the situation and select the most appropriate answer to the following question: \n\n\n
+After encountering the percept, based on the main character {protag_name}'s perception, is the following statement about {protag_name}'s belief True or False: \n
+Statement: \"{initial_belief}\"\n
+A. {True/False - randomly shuffled}\n
+B. {False/True - randomly shuffled}

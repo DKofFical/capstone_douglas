@@ -1,0 +1,5 @@
+Story: {Story Scenario from OpenToM}\n\n
+Main character's belief: {Protagonist's Belief in Story Scenario from OpenToM}\n\n
+  
+Instructions: Based on the following story, generate a one-line story consisting an event that MUST NEGATE {protagonist name}'s initial belief and change it to: "{new belief}". Note that this story MUST also be consistent with {observed character}'s preference, i.e., {observed character's preference}. Each story should be creative, reasonable, realistic, and systematically explore the sensory modalities of: visual, auditory, olfactory, gustatory, tactile, proprioception (sense of body position/weight). Generate 2 stories for each sensory modality. Be super duper creative! Show, don't tell. Write the stories in this format: \n ### Visual Stories\n1. {story #1}\n2. {story #2}\n 
+        

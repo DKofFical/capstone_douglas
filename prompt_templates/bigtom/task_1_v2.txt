@@ -1,0 +1,7 @@
+Story: {story} \n\nEvent: {event} \n\n
+Regarding the event, the main character {protag_name} only encounters the following percept: {percept}\n\n
+Before the event, the main character's initial belief was \"{initial_belief}\"\n\n
+Instructions: Analyze the situation and select the most appropriate answer to the following question: \n\n\n
+Did the event cause the main character {protag_name} to change their belief?\n
+A. {Yes/No - randomly shuffled}\n
+B. {No/Yes - randomly shuffled}
