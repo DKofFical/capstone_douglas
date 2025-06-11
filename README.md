@@ -24,7 +24,7 @@ The datasets used in the BC-ToM benchmark are stored in the "datasets" folder:
 - "bigtom-modified.csv" is a CSV version of the BigToM dataset downloaded from the original authors' repository.
 
 The experiment results are stored in the "experiment_results" folder:
-- These results are stored in this format: <bigtom/opentom>_<task_number>_ans_<model_name>
+- These results are stored in this format: <bigtom/opentom> _ <task_number> _ ans _ <model_name>
 - For Task 0, notice that there are results for "before belief change" and "after belief change". For the former, we ask the LLM to perform various tasks in BigToM and OpenToM without belief change - this is used as a control experiment. Meanwhile, for the latter, we ask the LLM to perform various tasks in BigToM and OpenToM after introducing belief change. This is to see if LLMs' ToM abilities are robust to changing beliefs.
 - For Tasks 1-4, you may need to redo some experiments. This is because these experiments are performed on an old version of the dataset. I have updated new instances to the ".jsonl" files - just make sure to check and see if any instances are missing in the files for experiment results.
 
