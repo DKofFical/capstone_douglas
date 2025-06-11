@@ -38,5 +38,6 @@ You will also find another folder called "experiment_utils" with two "runnable f
 - Experiment Results: https://docs.google.com/spreadsheets/d/1b74RuzRNN4O8p5WBPpG3DjrPuzac9SjOM7siZnpAJJ0/edit?usp=sharing <-- as mentioned earlier, you will need to redo some experiments for Tasks 1-4 and restructure the experiment results, because they were done on an old version of the dataset. 
 - BigToM: https://arxiv.org/pdf/2306.15448
 - OpenToM: https://arxiv.org/pdf/2402.06044
+- If you wish to understand more about the details of this project, you can refer to the Overleaf link.
 
 **Wish you all the best if you will be continuing this project!**
