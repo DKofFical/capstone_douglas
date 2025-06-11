@@ -32,6 +32,7 @@ You can find the prompt templates I used in the "prompt_templates" folder. For e
 
 You will also find another folder called "experiment_utils" with two "runnable filters". As our dataset contains a large number of easy negative samples, these masks are used during experiments to perform random sampling. This will make the accuracy and F1 scores less sensitive to class imbalance. 
 
+The "Mechanical Turk Instructions" pdf file are instructions on how to use the Mechanical Turk tool for labelling. This step is already done, so you don't need to redo it again. Just use the labelled datasets in the "datasets" folder.
 
 **Other useful links**
 - Overleaf link: https://www.overleaf.com/read/srhzwtzmmjgt#ea4861 <-- this includes a rough draft for some parts of the paper, but more modifications will be needed: figures need to be more presentable, citations need to be added, need additional parts such as "Error Analysis" and "Data Contamination", etc.
