@@ -1,4 +1,4 @@
-**Welcome to this project. Here are a few instructions before you start. **
+**Welcome to this project. Here are a few instructions before you start.**
 
 **ABOUT THE RESEARCH**
 
